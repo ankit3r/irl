@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50252869733",
+    "project_id": "irlapp-b76f8",
+    "storage_bucket": "irlapp-b76f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50252869733:android:80dae1cce35fb9d8f9968c",
+        "android_client_info": {
+          "package_name": "com.example.irl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZoSOylOMbaKiWyZ6LMEmhmbZXtJaqHJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50252869733:android:44c516c6d152f2c3f9968c",
+        "android_client_info": {
+          "package_name": "com.irl.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZoSOylOMbaKiWyZ6LMEmhmbZXtJaqHJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
